@@ -4,8 +4,6 @@
 
 ### `npm run dev`
 
-### `npm build`
-
 ### `npm start`
 
 
